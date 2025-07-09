@@ -1,2 +1,1 @@
-# DAOTestnetAIKitPro
-Advanced DAOTestnetAIKitPro project
+.
