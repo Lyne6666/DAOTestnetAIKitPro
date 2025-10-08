@@ -1,11 +1,25 @@
 {
+    // Configuration for the TypeScript compiler
     "compilerOptions": {
+        // Target the ES2020 version of JavaScript
         "target": "ES2020",
+        
+        // Use the CommonJS module format for compatibility
         "module": "commonjs",
+        
+        // Output compiled files to the ./dist directory
         "outDir": "./dist",
+        
+        // Specify the root directory for source files
         "rootDir": "./src",
+        
+        // Enable strict type checking and error reporting
         "strict": true,
+        
+        // Enable interoperability with ES modules
         "esModuleInterop": true,
+        
+        // Skip type checking for library files
         "skipLibCheck": true
     }
 }
